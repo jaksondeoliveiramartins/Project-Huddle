@@ -1,4 +1,4 @@
-# Projeto-Hunddle
+# Projeto-Huddle
 Neste projeto  foi elaborado uma Landing Page da Huddle, desenvolvido através do curso  DevQuest, cujo objetivo foi aplicar  o conhecimento adquirido em HTML e CSS, criando  um layout de acordo com os requisitos do disign proposto e mantendo foco na estrutura semântica, responsividade e boas práticas.
 
 ## Indice
