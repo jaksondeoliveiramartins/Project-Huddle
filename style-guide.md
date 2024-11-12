@@ -1,9 +1,9 @@
 # Front-end Style Guide
 
 ## Layout
-![alt text](src/layout/macro_1.png)
-
 ![alt text](src/layout/macro-2.png)
+
+
 
 
 
