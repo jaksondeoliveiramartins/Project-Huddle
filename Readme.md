@@ -5,7 +5,7 @@ Neste projeto  foi elaborado uma Landing Page da Huddle, desenvolvido através d
 
 - [Origem](#Origem)
 - [Funcionalidades](#funcionalidades)
-- [Ferramentas Tecnológicas](#Ferramentas-Tecnológicas)
+- [Ferramentas Tecnológicas](#ferramentas-Tecnológicas)
 - [Screenshots](#screenshots)
 - [Conclusão](#conclusão)
 - [Autor](#autor)
